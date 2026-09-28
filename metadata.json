@@ -1,0 +1,10 @@
+{
+  "name": "MeghDrishti - National Weather Big Data Analytics Platform",
+  "description": "Scalable national weather big data analytics platform for India. Ingests real-time multi-source data from IMD, social media, satellite radars, and citizen ground reports with AI duplicate detection, trust scoring, and early warning CAP alerting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
